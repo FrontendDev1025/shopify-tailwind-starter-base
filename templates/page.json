@@ -6,9 +6,29 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "17010814110c3318b6": {
+      "type": "apps",
+      "blocks": {
+        "c4bb124a-5e83-46b2-b7ec-33086fb33c20": {
+          "type": "shopify:\/\/apps\/houseparty-dev\/blocks\/main\/94a370cd-9548-4b04-a937-be2ca5c15492",
+          "settings": {
+            "announcement_text": "We are a fan-driven brand! Share your thoughts!",
+            "announcement_text_color": "#ffffff",
+            "announcement_bg_color": "#1990C6"
+          }
+        }
+      },
+      "block_order": [
+        "c4bb124a-5e83-46b2-b7ec-33086fb33c20"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "17010814110c3318b6"
   ]
 }
